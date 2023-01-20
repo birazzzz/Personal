@@ -10,6 +10,9 @@ hr{
     border-color:rgb(210, 210, 210)
 }
 h1{
+    font-size: 64px;
+    line-height: 32px;
+    font-family: 'albert sans';
     color: #66bfbf;
 }
 h3{
